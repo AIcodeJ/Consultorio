@@ -15,6 +15,8 @@ _Vamos a necesitar lo siguiente_
 ```
 1. JDK versión 11 (más reciente)
 2. IDE de tu preferencia
+3. El .jar que se deja en la etiqueta del proyecto para ejecutarlo
+4. Acceder a los administrador a través de la admin: Alexis y password: 1234
 ```
 
 ### Instalación 🔧
